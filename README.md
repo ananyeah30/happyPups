@@ -29,7 +29,7 @@ By simply scanning the QR code on the pet collar, users will gain instant access
 
 
 ## Thank you for exploring HappyPups, your trusted companion in pet care management.
-## Pawsitive Pet Care, Tailored for Happy Pups!
+## Pawsitive Pet Care, Tailored for Happy Pups ;)
 Copyright © 2024 HappyPups. All rights reserved.
 
 
