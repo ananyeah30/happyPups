@@ -6,6 +6,7 @@
 
 
 
+
 ### HappyPups brings together pet breeders, veterinarians, local municipalities, and service providers onto a single unified platform. 
 ### By seamlessly integrating various stakeholders, HappyPups streamlines the management of every aspect of your pet's life.
 
@@ -14,6 +15,7 @@
 
 ## Project Workflow
 ![image](https://github.com/ananyeah30/happyPups/assets/97330172/cfd95ad4-ba86-4775-a766-17f81e0c2c69)
+
 
 
 ## Working Prototype (can be easily accessed through this link)
