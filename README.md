@@ -1,6 +1,10 @@
 ## In the dynamic landscape of the pet market, one glaring challenge persists: the inefficiency in pet lifecycle management. Recognizing this pressing need, we proudly introduce 
 
+
+
 ![image](https://github.com/ananyeah30/happyPups/assets/97330172/9abff27e-b7ef-449c-a787-598c6e7b8649)
+
+
 
 ## Your Complete Pet Lifecycle Management Solution
 
