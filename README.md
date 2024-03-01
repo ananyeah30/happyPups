@@ -26,9 +26,11 @@
 https://www.figma.com/proto/GxV72H127h3SRhto1o0AJE/Happy-Pups?node-id=108-1894&starting-point-node-id=69%3A733&mode=design&t=eAH9deJVMtB7PtdF-1
 
 
+
 ## Future Expansion: NFC Pet Collar Module (Under Development)
 The NFC-based pet collar module will revolutionize the way pet owners interact with their pets' lifecycle data. 
 By simply scanning the QR code on the pet collar, users will gain instant access to the entire lifecycle history of their pet, all in a single step. 
+
 
 ![image](https://github.com/ananyeah30/happyPups/assets/97330172/1ca89755-c524-4720-88ac-10a24b809211)
 
